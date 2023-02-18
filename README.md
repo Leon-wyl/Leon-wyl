@@ -2,7 +2,7 @@
 
 - 🏠 I'm from Guangzhou, China. I used to study in Canberra, Australia and I'm currently based in Sydney, Australia
 - 🏫 I'm currently a fourth-year software engineering student at UNSW
-- 🌱 I'm eager to learning any frontend-related technologies
+- 🌱 I'm eager to learn any frontend-related technologies
 - ⚽ I'm love playing and watching soccer and table tennis
 - 📫 How to reach me: yilangwu@outlook.com
 - 😄 Pronouns: He/him
