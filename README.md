@@ -1,4 +1,4 @@
-### Hi there, this is Leon 👋
+### Hi there, I am Leon 👋
 
 - 🏠 I'm from Guangzhou, China. I used to study in Canberra, Australia and I'm currently based in Sydney, Australia
 - 🏫 I'm currently a fourth-year software engineering student at UNSW
