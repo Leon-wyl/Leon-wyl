@@ -1,7 +1,7 @@
 ### Hi there, I am Leon 👋
 
-- 🏠 I'm from Guangzhou, China. I used to study in Canberra, Australia and I'm currently based in Sydney, Australia.
-- 🏫 I'm currently a fourth-year software engineering student at UNSW.
+- 🏠 I'm originally from Guangzhou, China. I used to study in Canberra, Australia and I'm currently based in Sydney, Australia.
+- 🏫 I graduated from UNSW Sydney with a Bachelor of Engineering (Honours) degree, majoring in Software Engineering.
 - 🌱 I'm eager to learn any frontend-related technologies.
 - ⚽ I love playing and watching soccer and table tennis.
 - 📫 How to reach me: yilangwu@outlook.com
